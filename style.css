@@ -5,8 +5,9 @@ body{
      display: flex;
      flex-direction: column;
  }
- h1{
+ .h-1{
      margin: 20px;
+	 text-align: center;
  }
  .p-1{
      text-align: center;
